@@ -1,6 +1,6 @@
 {
 	"name": "NanoBrain",
-	"homepage": "nanobrain.vercel.app",
+	"homepage": "https://nanobrain.vercel.app/",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
