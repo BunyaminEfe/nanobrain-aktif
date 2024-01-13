@@ -4,15 +4,27 @@ import "./app.scss";
 
 const links = [
   {
-    title: "Hakkımızda",
+    title: "work",
     url: "/",
   },
   {
-    title: "Projeler",
+    title: "prototypes",
     url: "/",
   },
   {
-    title: "İletişim",
+    title: "art",
+    url: "/",
+  },
+  {
+    title: "press",
+    url: "/",
+  },
+  {
+    title: "info",
+    url: "/",
+  },
+  {
+    title: "reel",
     url: "/",
   },
 ];
@@ -33,7 +45,7 @@ export const App: VFC = () => {
           <div className="titles">
             <div className="page-title">NANO BRAIN</div>
             <div className="page-subtitle">
-              Bilim | Teknoloji | Sinırsız İnovasyon
+              Creative | Technologist | Developer
             </div>
           </div>
         </div>
