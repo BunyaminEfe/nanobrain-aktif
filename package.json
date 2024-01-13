@@ -1,6 +1,6 @@
 {
-	"name": "r3f-gyroid-sphere",
-	"homepage": "https://nemutas.github.io/r3f-gyroid-sphere/",
+	"name": "NanoBrain",
+	"homepage": "nanobrain.vercel.app",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
