@@ -19,7 +19,6 @@ export const TCanvas: VFC = () => {
 				<FXAAPass />
 				<BloomPass />
 				<FocusPass />
-				<SpeedInsights />
 			</Effects>
 			{/* helper */}
 		</Canvas>
