@@ -1,5 +1,4 @@
 import React, { VFC } from "react";
-import { TCanvas } from "../three/TCanvas";
 import "./app.scss";
 
 
