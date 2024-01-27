@@ -13,8 +13,8 @@ const links = [
     url: "/",
   },
   {
-    title: "Contact Us",
-    url: "/",
+    title: "Contact Us LinkEdin",
+    url: "https://www.linkedin.com/company/nano-brain/",
   },
 ];
 
